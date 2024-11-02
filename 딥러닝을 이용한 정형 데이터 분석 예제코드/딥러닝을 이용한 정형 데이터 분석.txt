@@ -1,0 +1,19 @@
+딥러닝을 이용한 정형 데이터 분석
+비즈니스 가치 창출을 위한 숫자와 표 형식의 엔터프라이즈 데이터 분석과 예측
+마크 라이언 지음 | 박찬성 옮김
+308쪽 | 28,000원 | 2022년 6월 20일 출간 | 185*240*15 | ISBN 9791189909420
+
+ 
+
+판매처 | [교보문고] [YES24] [알라딘] [영풍문고] [인터파크]  + 전국 교보문고 매장
+
+전자책 판매처 | [리디북스] [교보문고] [예스24] [알라딘] | ISBN 9791189909468 | PDF 포맷 | (8월 31일 출간)
+
+
+* 원서: Deep Learning with Structured Data
+
+ 
+
+★ 소스 코드 다운로드: https://github.com/onlybooks/structured-data
+
+★ 정오표: https://www.onlybook.co.kr/entry/structured-data-errata (아직 등록된 정오사항이 없습니다)
